@@ -1,0 +1,56 @@
+[{
+	"name": "removed suite"
+},{
+	"name": "basics",
+	"benchmarks": [{
+		"iterations": 3363220,
+		"elapsed": 939.489498,
+		"title": "set trace mode",
+		"ops": 3579838
+	}, {
+		"iterations": 3047752,
+		"elapsed": 872.332811,
+		"title": "set trace mode as string",
+		"ops": 3493795
+	}, {
+		"iterations": 3352707,
+		"elapsed": 893.804804,
+		"title": "set sample rate",
+		"ops": 3751051
+	}, {
+		"iterations": 5579578,
+		"elapsed": 933.268237,
+		"title": "set sample source",
+		"ops": 5978536
+	}, {
+		"iterations": 5810806,
+		"elapsed": 854.976058,
+		"title": "check if in \"always\" trace mode",
+		"ops": 6796455
+	}, {
+		"iterations": 6172926,
+		"elapsed": 942.222015,
+		"title": "check if in \"never\" trace mode",
+		"ops": 6551456
+	}, {
+		"iterations": 5763351,
+		"elapsed": 901.029328,
+		"title": "check if in \"through\" trace mode",
+		"ops": 6396408
+	}, {
+		"iterations": 2354110,
+		"elapsed": 972.154436,
+		"title": "detect if it is in a trace",
+		"ops": 2421539
+	}, {
+		"iterations": 473724,
+		"elapsed": 653.647209,
+		"title": "sample",
+		"ops": 724740
+	}, {
+		"iterations": 473724,
+		"elapsed": 653.647209,
+		"title": "removed benchmark",
+		"ops": 724740
+	}]
+}]
